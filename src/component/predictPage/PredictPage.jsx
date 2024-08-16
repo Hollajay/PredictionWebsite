@@ -163,7 +163,7 @@ export const PredictPage = () => {
                 <div className="predict_image_div"><img src="https://i.postimg.cc/D0c75qPM/Arrow-8.png" alt="" /></div>
                 </div>
                 <div className="predictImages_sub_div4">
-                <div className="predict_image_div"><img src="https://i.postimg.cc/zGvqSHbx/image-7.png" alt="" /></div>
+                <div className="predict_image_div4"><img src="https://i.postimg.cc/zGvqSHbx/image-7.png" alt="" /></div>
                 </div>
                 <div className="predictImages_sub_div5">
                 <div className="predict_image_div5"><img src="https://i.postimg.cc/bw4fxCjv/Arrow-10.png" alt="" /></div>
