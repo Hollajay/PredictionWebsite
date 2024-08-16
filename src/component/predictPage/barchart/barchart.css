@@ -1,0 +1,10 @@
+.barChart_container {
+    width: 100%;
+    height: 400px; /* Ensure the container has a height */
+    background-color: #fff;
+  }
+  #chart {
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+  }
