@@ -408,9 +408,11 @@ filter:grayscale(100)
         position: absolute;
         left: 0;
        top:110%;
+      
     }
     .background_position_img3 img{
         width: 200px;
+        overflow: hidden;
      }
     
     .predict_container_flex_div{
@@ -796,7 +798,7 @@ filter:grayscale(100)
 }
 
 
-@media screen and (max-width:1024px) {
+@media screen and (min-width:650px) {
     .predict_container{
         width: 100%;
         background-color: var(--lightbackground-color);
